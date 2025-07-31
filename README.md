@@ -22,6 +22,33 @@ Resume Analyzer is a smart web app that uses Natural Language Processing (NLP) t
 
 ---
 
+---
+
+## 📌 How It Works
+
+1. **Upload Your Resume**  
+   The user uploads a `.pdf` or `.docx` resume file using the file uploader in the Streamlit interface.
+
+2. **Automatic Parsing**  
+   The app uses `spaCy` (NLP) to extract:
+   - Name
+   - Email address
+   - Phone number
+   - Total pages
+   - Skills (based on keywords)
+
+3. **Results Displayed Instantly**  
+   Once parsed, the details are shown immediately on the same page in a clean, readable format.
+
+4. **Skill Visualization**  
+   The app highlights extracted skills for easy screening by HR or clients.
+
+5. **No Data Stored**  
+   All processing is done locally — resume data is not stored or uploaded anywhere.
+
+---
+
+
 
 ## 📁 Project Structure
 
