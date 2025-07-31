@@ -22,11 +22,6 @@ Resume Analyzer is a smart web app that uses Natural Language Processing (NLP) t
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![Resume Analyzer Demo](https://github.com/Gayathri-0809/resume-analyzer-app/assets/demo_screenshot.png)
-
----
 
 ## 📁 Project Structure
 
