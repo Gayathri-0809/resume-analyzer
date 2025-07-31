@@ -1,0 +1,9 @@
+Python
+Java
+HTML
+CSS
+SQL
+Django
+Streamlit
+Data Analysis
+Machine Learning
